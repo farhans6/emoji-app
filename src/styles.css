@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  width: 30rem;
+  padding: 0.5rem;
+  border: 1px solid black;
+}
+
+#output {
+  color: red;
+  font-size: larger;
+  padding: 0.5rem;
+}
